@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "SwiftJWT"
-  s.version      = "0.0.1"
+  s.version      = "1.0.0"
   s.summary      = "An implementation of JSON Web Token using Swift. JWTs offer a lightweight and compact format for transmitting information between parties, and the information can be verified and trusted due to JWTs being digitally signed."
   s.homepage     = "https://github.com/IBM-Swift/Swift-JWT"
   s.license      = { :type => "APACHE 2.0", :file => "LICENSE" }
