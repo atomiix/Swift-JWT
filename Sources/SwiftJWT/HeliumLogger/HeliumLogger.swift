@@ -14,7 +14,6 @@
  * limitations under the License.
  **/
 
-import LoggerAPI
 import Foundation
 
 /// The set of colors used when logging with colorized lines.

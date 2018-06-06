@@ -14,7 +14,6 @@
  * limitations under the License.
  **/
 
-import LoggerAPI
 import Foundation
 
 /// A `HeliumLogger`, that prints to a TextOutputStream.

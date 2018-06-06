@@ -15,8 +15,6 @@
  **/
 
 #if os(macOS) || os(iOS) || os(tvOS) || os(watchOS)
-import CryptorRSA
-import LoggerAPI
 
 import Foundation
 

@@ -14,8 +14,6 @@
  * limitations under the License.
  **/
 
-import Cryptor
-
 // MARK Hash
 
 /// A utility struct to perform SHA256/384/512 hash.
